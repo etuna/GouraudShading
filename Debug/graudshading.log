@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (graudshading.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\etuna\source\repos\graudshading\graudshading\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\graudshading\graudshading\mat.h(764): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\graudshading\graudshading\mat.h(765): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\graudshading\graudshading\mat.h(766): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\graudshading\graudshading\mat.h(787): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\graudshading\graudshading\mat.h(789): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\graudshading\graudshading\mat.h(792): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\graudshading\graudshading\mat.h(809): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(145): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(150): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(151): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(231): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(236): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(237): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(314): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(409): warning C4101: 'temp2': unreferenced local variable
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(409): warning C4101: 'temp3': unreferenced local variable
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(409): warning C4101: 'temp1': unreferenced local variable
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(416): warning C4101: 'temp2': unreferenced local variable
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(416): warning C4101: 'temp3': unreferenced local variable
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(416): warning C4101: 'temp4': unreferenced local variable
+c:\users\etuna\source\repos\graudshading\graudshading\main.cpp(424): warning C4101: 'temp4': unreferenced local variable
+  graudshading.vcxproj -> C:\Users\etuna\source\repos\graudshading\Debug\GouraudShading.exe
